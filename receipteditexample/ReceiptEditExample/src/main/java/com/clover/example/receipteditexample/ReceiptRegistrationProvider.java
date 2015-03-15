@@ -13,6 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  * Adding text to test diff.
+ * One more text line.
  */
 package com.clover.example.receipteditexample;
 
