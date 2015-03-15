@@ -14,6 +14,7 @@
  * limitations under the License.
  * Adding text to test diff.
  * One more text line.
+ * This line of text is for the master branch only
  */
 package com.clover.example.receipteditexample;
 
