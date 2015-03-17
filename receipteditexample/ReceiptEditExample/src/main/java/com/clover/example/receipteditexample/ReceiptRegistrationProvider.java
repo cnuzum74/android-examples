@@ -16,6 +16,7 @@
  * One more text line.
  * This line of text is for the master branch only
  * Some master changes.
+ * More Master changes.
  */
 package com.clover.example.receipteditexample;
 
