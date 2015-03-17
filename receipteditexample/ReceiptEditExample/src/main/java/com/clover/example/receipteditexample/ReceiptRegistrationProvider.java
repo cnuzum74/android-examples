@@ -15,6 +15,7 @@
  * Adding text to test diff.
  * One more text line.
  * This line of text is for the master branch only
+ * Some master changes.
  */
 package com.clover.example.receipteditexample;
 
